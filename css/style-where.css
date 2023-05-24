@@ -1,0 +1,38 @@
+.where{
+    padding: 180px 0px 100px ;
+   
+   overflow: auto;
+    min-height: 100vh;
+    
+}
+.where-img{
+float: left;
+width: 45%;
+border: 1px solid white;
+border-radius: 5px;
+
+
+}
+.where-text{
+    float: right;
+    width: 50%;
+}
+.underline{
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+}
+.chip{
+    display: inline-block;
+    width: 35px;
+    border-radius: 100%;
+    color: white;
+    text-align: center;
+
+}
+.chip-purple{
+    background: rgb(190, 65, 141);
+
+}
+.chip-brown{
+background: rgb(140, 94, 36);
+}

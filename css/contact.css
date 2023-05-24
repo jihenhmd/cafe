@@ -1,0 +1,30 @@
+.contact{
+    padding: 180px 0 100px;
+    min-height: 100vh;
+   
+    
+}
+ .form-container{
+    max-width: 600px;
+    margin: auto;
+} 
+ .form-container form label{
+    display: block;
+    font-weight: 700;
+} 
+.underline{
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+}
+.form-container form input,textarea{
+    display: block;
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+.form-container form textarea{
+    min-height: 80px;
+    width: 100%;
+}
+  
